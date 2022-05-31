@@ -5,7 +5,9 @@ THIS IS A DEMO
 
 PRICE $15USD
 
-AVAIBLE COMMANDS RIGHT NOW!
+Avaible Commands!
+
+More commands soon!
 
 For buying contact me on Discord ---> rusher#3981
 
