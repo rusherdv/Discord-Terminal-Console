@@ -30,5 +30,12 @@ vipinicial - viproyal - vipking
 <img src="https://user-images.githubusercontent.com/105472000/171086253-7f9c33e6-3c94-410b-849a-34967b7244bf.png">
 
 
-https://user-images.githubusercontent.com/105472000/171087265-609339fc-391e-445c-9342-b80b2b2a6cb8.mp4
+
+
+
+https://user-images.githubusercontent.com/105472000/171087344-ac4597a4-78be-452e-8816-daf254d45f60.mp4
+
+
+<h4>Resource Monitor: </h4>
+![image](https://user-images.githubusercontent.com/105472000/171087424-8e69746e-1360-4bbd-9ecd-00561361f9f1.png)
 
