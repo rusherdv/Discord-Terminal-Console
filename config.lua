@@ -1,0 +1,9 @@
+Config = {}
+Config.ESX = true
+Config.BotToken = "######################################################################"
+Config.ChannelID = "##################"
+Config.Webhook = "###########################################"
+Config.ReplyUserName = "Server Name"
+Config.AvatarURL = "www.image.com"
+Config.Prefix = "!"
+Config.WaitEveryTick = 4000  -- ITS MS
