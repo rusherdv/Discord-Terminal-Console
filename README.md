@@ -13,7 +13,7 @@ For buying contact me on Discord ---> rusher#3981
 
 <hr>
 
-##Comands
+## Commands
 
 | ESX |
 |--------------------------|
