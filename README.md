@@ -13,26 +13,36 @@ For buying contact me on Discord ---> rusher#3981
 
 <hr>
 
-<h3>Administrative</h3>
+##Comands
 
-|Administrative|
+| ESX |
 |--------------------------|
-| playercount|
+| playercount |
 | playerlist |
 | kick |
-playercount  - playerlist - kick - revive - slay - kick
+| revive |
+| slay |
 
 <hr>
 
-<h3>ESX</h3>
-
-setjob - getjob - getmoney - getbank - removemoney - addmoney - addbank - removebank
+| ESX |
+|--------------------------|
+| setjob |
+| getjob |
+| getmoney |
+| getbank |
+| removemoney |
+| addmoney |
+| addbank |
+| removebank |
 
 <hr>
 
-<h3>VIPS</h3>
-
-vipinicial - viproyal - vipking
+| VIPS |
+|--------------------------|
+| vipinicial |
+| viproyal |
+| vipking |
 
 <hr>
 
