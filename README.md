@@ -15,7 +15,11 @@ For buying contact me on Discord ---> rusher#3981
 
 <h3>Administrative</h3>
 
-
+|Administrative|
+|--------------------------|
+| playercount|
+| playerlist |
+| kick |
 playercount  - playerlist - kick - revive - slay - kick
 
 <hr>
