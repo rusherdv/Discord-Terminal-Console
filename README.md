@@ -12,9 +12,9 @@ More commands soon!
 For buying contact me on Discord ---> rusher#3981
 
 <hr>
-|-------------------------|
-| <h3>Administrative</h3> |
-|-------------------------|
+
+<h3>Administrative</h3>
+
 
 playercount  - playerlist - kick - revive - slay - kick
 
