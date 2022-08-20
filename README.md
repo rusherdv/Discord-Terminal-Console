@@ -9,7 +9,7 @@ Avaible Commands!
 
 More commands soon!
 
-For buying contact me on Discord ---> rusher#3981
+For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 
 <hr>
 
