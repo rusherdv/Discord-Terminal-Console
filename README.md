@@ -1,13 +1,7 @@
 # Discord Terminal Console
 Terminal Console of FiveM for Discord
 
-THIS IS A DEMO
-
 PRICE $15USD
-
-Avaible Commands!
-
-More commands soon!
 
 For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 
@@ -22,11 +16,6 @@ For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 | kick |
 | revive |
 | slay |
-
-<hr>
-
-| ESX |
-|--------------------------|
 | setjob |
 | getjob |
 | getmoney |
