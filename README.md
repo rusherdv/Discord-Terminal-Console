@@ -15,7 +15,7 @@ For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 | playerlist |
 | kick |
 | revive |
-| slay |
+| kill |
 | setjob |
 | getjob |
 | getmoney |
@@ -32,12 +32,6 @@ For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 | vipinicial |
 | viproyal |
 | vipking |
-
-<hr>
-
-<img src="https://user-images.githubusercontent.com/105472000/171086253-7f9c33e6-3c94-410b-849a-34967b7244bf.png">
-
-
 
 <hr>
 
