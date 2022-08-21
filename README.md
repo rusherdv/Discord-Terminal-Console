@@ -1,7 +1,7 @@
 # Discord Terminal Console
 Terminal Console of FiveM for Discord
 
-PRICE $15USD
+PRICE $20USD
 
 For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 
