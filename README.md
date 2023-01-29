@@ -3,7 +3,7 @@ Terminal Console of FiveM for Discord
 
 PRICE $20USD
 
-For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
+For buying contact me on Discord: rusher#3981
 
 <hr>
 
