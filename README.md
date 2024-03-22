@@ -1,9 +1,9 @@
 # Discord Terminal Console
 Terminal Console of FiveM for Discord
 
-PRICE $20USD
-
 For buying contact me on Discord: rusher#3981
+
+The script could have any command, here are some examples
 
 <hr>
 
@@ -11,11 +11,11 @@ For buying contact me on Discord: rusher#3981
 
 | ESX |
 |--------------------------|
-| playercount |
 | playerlist |
 | kick |
 | revive |
 | kill |
+| giveitem |
 | setjob |
 | getjob |
 | getmoney |
@@ -24,14 +24,6 @@ For buying contact me on Discord: rusher#3981
 | addmoney |
 | addbank |
 | removebank |
-
-<hr>
-
-| VIPS |
-|--------------------------|
-| vipinicial |
-| viproyal |
-| vipking |
 
 <hr>
 
