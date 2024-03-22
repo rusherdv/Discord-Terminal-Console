@@ -1,5 +1,5 @@
-# Discord Terminal Console
-Terminal Console of FiveM for Discord
+# Discord Fivem Console
+Console of FiveM for Discord
 
 For buying contact me on Discord: rusher#3981
 
